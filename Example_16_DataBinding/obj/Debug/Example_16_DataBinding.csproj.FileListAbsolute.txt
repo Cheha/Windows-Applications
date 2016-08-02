@@ -1,0 +1,12 @@
+D:\Brain Academy\Windows_Applications_Examples\Example_16_DataBinding\bin\Debug\Example_16_DataBinding.exe.config
+D:\Brain Academy\Windows_Applications_Examples\Example_16_DataBinding\bin\Debug\Example_16_DataBinding.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_16_DataBinding\bin\Debug\Example_16_DataBinding.pdb
+D:\Brain Academy\Windows_Applications_Examples\Example_16_DataBinding\obj\Debug\MainWindow.baml
+D:\Brain Academy\Windows_Applications_Examples\Example_16_DataBinding\obj\Debug\MainWindow.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_16_DataBinding\obj\Debug\App.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_16_DataBinding\obj\Debug\Example_16_DataBinding_MarkupCompile.cache
+D:\Brain Academy\Windows_Applications_Examples\Example_16_DataBinding\obj\Debug\Example_16_DataBinding.g.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_16_DataBinding\obj\Debug\Example_16_DataBinding.Properties.Resources.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_16_DataBinding\obj\Debug\Example_16_DataBinding.csproj.GenerateResource.Cache
+D:\Brain Academy\Windows_Applications_Examples\Example_16_DataBinding\obj\Debug\Example_16_DataBinding.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_16_DataBinding\obj\Debug\Example_16_DataBinding.pdb
