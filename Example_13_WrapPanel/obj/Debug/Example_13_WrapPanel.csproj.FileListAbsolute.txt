@@ -1,0 +1,12 @@
+D:\Brain Academy\Windows_Applications_Examples\Example_13_WrapPanel\bin\Debug\Example_13_WrapPanel.exe.config
+D:\Brain Academy\Windows_Applications_Examples\Example_13_WrapPanel\bin\Debug\Example_13_WrapPanel.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_13_WrapPanel\bin\Debug\Example_13_WrapPanel.pdb
+D:\Brain Academy\Windows_Applications_Examples\Example_13_WrapPanel\obj\Debug\MainWindow.baml
+D:\Brain Academy\Windows_Applications_Examples\Example_13_WrapPanel\obj\Debug\MainWindow.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_13_WrapPanel\obj\Debug\App.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_13_WrapPanel\obj\Debug\Example_13_WrapPanel_MarkupCompile.cache
+D:\Brain Academy\Windows_Applications_Examples\Example_13_WrapPanel\obj\Debug\Example_13_WrapPanel.g.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_13_WrapPanel\obj\Debug\Example_13_WrapPanel.Properties.Resources.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_13_WrapPanel\obj\Debug\Example_13_WrapPanel.csproj.GenerateResource.Cache
+D:\Brain Academy\Windows_Applications_Examples\Example_13_WrapPanel\obj\Debug\Example_13_WrapPanel.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_13_WrapPanel\obj\Debug\Example_13_WrapPanel.pdb
