@@ -1,0 +1,1 @@
+D:\Brain Academy\Windows_Applications_Examples\Example_10_StaticResource\bin\Debug\Example_10_StaticResource.exe.config
