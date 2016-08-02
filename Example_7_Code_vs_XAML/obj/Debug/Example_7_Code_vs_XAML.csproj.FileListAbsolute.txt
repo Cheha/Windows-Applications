@@ -1,0 +1,12 @@
+D:\Brain Academy\Windows_Applications_Examples\Example_7_Code_vs_XAML\bin\Debug\Example_7_Code_vs_XAML.exe.config
+D:\Brain Academy\Windows_Applications_Examples\Example_7_Code_vs_XAML\bin\Debug\Example_7_Code_vs_XAML.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_7_Code_vs_XAML\bin\Debug\Example_7_Code_vs_XAML.pdb
+D:\Brain Academy\Windows_Applications_Examples\Example_7_Code_vs_XAML\obj\Debug\MainWindow.baml
+D:\Brain Academy\Windows_Applications_Examples\Example_7_Code_vs_XAML\obj\Debug\MainWindow.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_7_Code_vs_XAML\obj\Debug\App.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_7_Code_vs_XAML\obj\Debug\Example_7_Code_vs_XAML_MarkupCompile.cache
+D:\Brain Academy\Windows_Applications_Examples\Example_7_Code_vs_XAML\obj\Debug\Example_7_Code_vs_XAML.g.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_7_Code_vs_XAML\obj\Debug\Example_7_Code_vs_XAML.Properties.Resources.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_7_Code_vs_XAML\obj\Debug\Example_7_Code_vs_XAML.csproj.GenerateResource.Cache
+D:\Brain Academy\Windows_Applications_Examples\Example_7_Code_vs_XAML\obj\Debug\Example_7_Code_vs_XAML.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_7_Code_vs_XAML\obj\Debug\Example_7_Code_vs_XAML.pdb

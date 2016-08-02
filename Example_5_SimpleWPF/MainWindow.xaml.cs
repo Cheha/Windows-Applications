@@ -24,5 +24,6 @@ namespace Example_5_SimpleWPF
         {
             InitializeComponent();
         }
+
     }
 }

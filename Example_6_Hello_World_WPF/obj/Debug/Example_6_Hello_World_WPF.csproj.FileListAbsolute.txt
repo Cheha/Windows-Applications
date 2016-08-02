@@ -1,0 +1,13 @@
+D:\Brain Academy\Windows_Applications_Examples\Example_6_Hello_World_WPF\bin\Debug\Example_6_Hello_World_WPF.exe.config
+D:\Brain Academy\Windows_Applications_Examples\Example_6_Hello_World_WPF\bin\Debug\Example_6_Hello_World_WPF.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_6_Hello_World_WPF\bin\Debug\Example_6_Hello_World_WPF.pdb
+D:\Brain Academy\Windows_Applications_Examples\Example_6_Hello_World_WPF\obj\Debug\Example_6_Hello_World_WPF.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Windows_Applications_Examples\Example_6_Hello_World_WPF\obj\Debug\MainWindow.baml
+D:\Brain Academy\Windows_Applications_Examples\Example_6_Hello_World_WPF\obj\Debug\MainWindow.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_6_Hello_World_WPF\obj\Debug\App.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_6_Hello_World_WPF\obj\Debug\Example_6_Hello_World_WPF_MarkupCompile.cache
+D:\Brain Academy\Windows_Applications_Examples\Example_6_Hello_World_WPF\obj\Debug\Example_6_Hello_World_WPF.g.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_6_Hello_World_WPF\obj\Debug\Example_6_Hello_World_WPF.Properties.Resources.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_6_Hello_World_WPF\obj\Debug\Example_6_Hello_World_WPF.csproj.GenerateResource.Cache
+D:\Brain Academy\Windows_Applications_Examples\Example_6_Hello_World_WPF\obj\Debug\Example_6_Hello_World_WPF.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_6_Hello_World_WPF\obj\Debug\Example_6_Hello_World_WPF.pdb
