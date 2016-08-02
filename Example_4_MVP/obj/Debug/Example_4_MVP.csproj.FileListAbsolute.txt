@@ -1,0 +1,9 @@
+D:\Brain Academy\Windows_Applications_Examples\Example_4_MVP\bin\Debug\Example_4_MVP.exe.config
+D:\Brain Academy\Windows_Applications_Examples\Example_4_MVP\obj\Debug\Example_4_MVP.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Windows_Applications_Examples\Example_4_MVP\obj\Debug\Example_4_MVP.Form1.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_4_MVP\obj\Debug\Example_4_MVP.Properties.Resources.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_4_MVP\obj\Debug\Example_4_MVP.csproj.GenerateResource.Cache
+D:\Brain Academy\Windows_Applications_Examples\Example_4_MVP\bin\Debug\Example_4_MVP.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_4_MVP\bin\Debug\Example_4_MVP.pdb
+D:\Brain Academy\Windows_Applications_Examples\Example_4_MVP\obj\Debug\Example_4_MVP.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_4_MVP\obj\Debug\Example_4_MVP.pdb

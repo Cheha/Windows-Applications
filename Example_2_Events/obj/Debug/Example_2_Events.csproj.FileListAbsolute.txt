@@ -1,0 +1,7 @@
+D:\Brain Academy\Windows_Applications_Examples\Example_2_Events\bin\Debug\Example_2_Events.exe.config
+D:\Brain Academy\Windows_Applications_Examples\Example_2_Events\bin\Debug\Example_2_Events.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_2_Events\bin\Debug\Example_2_Events.pdb
+D:\Brain Academy\Windows_Applications_Examples\Example_2_Events\obj\Debug\Example_2_Events.Properties.Resources.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_2_Events\obj\Debug\Example_2_Events.csproj.GenerateResource.Cache
+D:\Brain Academy\Windows_Applications_Examples\Example_2_Events\obj\Debug\Example_2_Events.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_2_Events\obj\Debug\Example_2_Events.pdb

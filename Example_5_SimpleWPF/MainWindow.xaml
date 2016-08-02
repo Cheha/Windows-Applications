@@ -1,0 +1,9 @@
+﻿<Window x:Class="Example_5_SimpleWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Hello, Brain Academy"></Button>
+        <!--<Button Content="Hello, Brain Academy, but smaller" Height="30" Grid.Column="1"></Button>-->
+    </Grid>
+</Window>

@@ -1,0 +1,9 @@
+D:\Brain Academy\Windows_Applications_Examples\Example_1_SimpleFom\bin\Debug\Example_1_SimpleFom.exe.config
+D:\Brain Academy\Windows_Applications_Examples\Example_1_SimpleFom\bin\Debug\Example_1_SimpleFom.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_1_SimpleFom\bin\Debug\Example_1_SimpleFom.pdb
+D:\Brain Academy\Windows_Applications_Examples\Example_1_SimpleFom\obj\Debug\Example_1_SimpleFom.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Windows_Applications_Examples\Example_1_SimpleFom\obj\Debug\Example_1_SimpleFom.Form1.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_1_SimpleFom\obj\Debug\Example_1_SimpleFom.Properties.Resources.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_1_SimpleFom\obj\Debug\Example_1_SimpleFom.csproj.GenerateResource.Cache
+D:\Brain Academy\Windows_Applications_Examples\Example_1_SimpleFom\obj\Debug\Example_1_SimpleFom.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_1_SimpleFom\obj\Debug\Example_1_SimpleFom.pdb
