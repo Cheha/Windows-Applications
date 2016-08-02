@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_6_Hello_World_WPF",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_7_Code_vs_XAML", "Example_7_Code_vs_XAML\Example_7_Code_vs_XAML.csproj", "{40AB2805-6D11-4FD0-AF76-B6A381CB4225}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_8_Events", "Example_8_Events\Example_8_Events.csproj", "{23AE2C85-7A8C-422E-8934-74BB6B144D16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{40AB2805-6D11-4FD0-AF76-B6A381CB4225}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40AB2805-6D11-4FD0-AF76-B6A381CB4225}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40AB2805-6D11-4FD0-AF76-B6A381CB4225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23AE2C85-7A8C-422E-8934-74BB6B144D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AE2C85-7A8C-422E-8934-74BB6B144D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AE2C85-7A8C-422E-8934-74BB6B144D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AE2C85-7A8C-422E-8934-74BB6B144D16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
