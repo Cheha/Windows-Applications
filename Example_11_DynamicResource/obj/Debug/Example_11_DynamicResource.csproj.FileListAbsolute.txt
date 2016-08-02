@@ -1,0 +1,13 @@
+D:\Brain Academy\Windows_Applications_Examples\Example_11_DynamicResource\bin\Debug\Example_11_DynamicResource.exe.config
+D:\Brain Academy\Windows_Applications_Examples\Example_11_DynamicResource\bin\Debug\Example_11_DynamicResource.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_11_DynamicResource\bin\Debug\Example_11_DynamicResource.pdb
+D:\Brain Academy\Windows_Applications_Examples\Example_11_DynamicResource\obj\Debug\Example_11_DynamicResource.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Windows_Applications_Examples\Example_11_DynamicResource\obj\Debug\MainWindow.baml
+D:\Brain Academy\Windows_Applications_Examples\Example_11_DynamicResource\obj\Debug\MainWindow.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_11_DynamicResource\obj\Debug\App.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_11_DynamicResource\obj\Debug\Example_11_DynamicResource_MarkupCompile.cache
+D:\Brain Academy\Windows_Applications_Examples\Example_11_DynamicResource\obj\Debug\Example_11_DynamicResource.g.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_11_DynamicResource\obj\Debug\Example_11_DynamicResource.Properties.Resources.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_11_DynamicResource\obj\Debug\Example_11_DynamicResource.csproj.GenerateResource.Cache
+D:\Brain Academy\Windows_Applications_Examples\Example_11_DynamicResource\obj\Debug\Example_11_DynamicResource.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_11_DynamicResource\obj\Debug\Example_11_DynamicResource.pdb

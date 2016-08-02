@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6A443E12-08B8-4027-9EB9-2C6F3E81D314}</ProjectGuid>
+    <ProjectGuid>{DBC70C2C-D515-43EE-85DE-D54B850E2EA2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Example_10_StaticResource</RootNamespace>
-    <AssemblyName>Example_10_StaticResource</AssemblyName>
+    <RootNamespace>Example_11_DynamicResource</RootNamespace>
+    <AssemblyName>Example_11_DynamicResource</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

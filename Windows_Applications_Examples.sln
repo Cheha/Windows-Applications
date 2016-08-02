@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_8_Events", "Example
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_9_AppXaml", "Example_9_AppXaml\Example_9_AppXaml.csproj", "{8EE2819F-A729-40B0-B042-AD5AC080D265}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_10_StaticResource", "Example_10_StaticResource\Example_10_StaticResource.csproj", "{6A443E12-08B8-4027-9EB9-2C6F3E81D314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_11_DynamicResource", "Example_11_DynamicResource\Example_11_DynamicResource.csproj", "{DBC70C2C-D515-43EE-85DE-D54B850E2EA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +65,14 @@ Global
 		{8EE2819F-A729-40B0-B042-AD5AC080D265}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EE2819F-A729-40B0-B042-AD5AC080D265}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EE2819F-A729-40B0-B042-AD5AC080D265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A443E12-08B8-4027-9EB9-2C6F3E81D314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A443E12-08B8-4027-9EB9-2C6F3E81D314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A443E12-08B8-4027-9EB9-2C6F3E81D314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A443E12-08B8-4027-9EB9-2C6F3E81D314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC70C2C-D515-43EE-85DE-D54B850E2EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC70C2C-D515-43EE-85DE-D54B850E2EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC70C2C-D515-43EE-85DE-D54B850E2EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC70C2C-D515-43EE-85DE-D54B850E2EA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
