@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_7_Code_vs_XAML", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_8_Events", "Example_8_Events\Example_8_Events.csproj", "{23AE2C85-7A8C-422E-8934-74BB6B144D16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_9_AppXaml", "Example_9_AppXaml\Example_9_AppXaml.csproj", "{8EE2819F-A729-40B0-B042-AD5AC080D265}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{23AE2C85-7A8C-422E-8934-74BB6B144D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23AE2C85-7A8C-422E-8934-74BB6B144D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23AE2C85-7A8C-422E-8934-74BB6B144D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE2819F-A729-40B0-B042-AD5AC080D265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE2819F-A729-40B0-B042-AD5AC080D265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE2819F-A729-40B0-B042-AD5AC080D265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE2819F-A729-40B0-B042-AD5AC080D265}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

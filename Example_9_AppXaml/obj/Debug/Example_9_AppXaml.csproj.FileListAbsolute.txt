@@ -1,0 +1,12 @@
+D:\Brain Academy\Windows_Applications_Examples\Example_9_AppXaml\bin\Debug\Example_9_AppXaml.exe.config
+D:\Brain Academy\Windows_Applications_Examples\Example_9_AppXaml\bin\Debug\Example_9_AppXaml.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_9_AppXaml\bin\Debug\Example_9_AppXaml.pdb
+D:\Brain Academy\Windows_Applications_Examples\Example_9_AppXaml\obj\Debug\MainWindow.baml
+D:\Brain Academy\Windows_Applications_Examples\Example_9_AppXaml\obj\Debug\MainWindow.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_9_AppXaml\obj\Debug\App.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_9_AppXaml\obj\Debug\Example_9_AppXaml_MarkupCompile.cache
+D:\Brain Academy\Windows_Applications_Examples\Example_9_AppXaml\obj\Debug\Example_9_AppXaml.g.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_9_AppXaml\obj\Debug\Example_9_AppXaml.Properties.Resources.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_9_AppXaml\obj\Debug\Example_9_AppXaml.csproj.GenerateResource.Cache
+D:\Brain Academy\Windows_Applications_Examples\Example_9_AppXaml\obj\Debug\Example_9_AppXaml.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_9_AppXaml\obj\Debug\Example_9_AppXaml.pdb
