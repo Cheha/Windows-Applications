@@ -1,0 +1,13 @@
+D:\Brain Academy\Windows_Applications_Examples\Example_17_DataContext\bin\Debug\Example_17_DataContext.exe.config
+D:\Brain Academy\Windows_Applications_Examples\Example_17_DataContext\bin\Debug\Example_17_DataContext.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_17_DataContext\bin\Debug\Example_17_DataContext.pdb
+D:\Brain Academy\Windows_Applications_Examples\Example_17_DataContext\obj\Debug\Example_17_DataContext.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Windows_Applications_Examples\Example_17_DataContext\obj\Debug\MainWindow.baml
+D:\Brain Academy\Windows_Applications_Examples\Example_17_DataContext\obj\Debug\MainWindow.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_17_DataContext\obj\Debug\App.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_17_DataContext\obj\Debug\Example_17_DataContext_MarkupCompile.cache
+D:\Brain Academy\Windows_Applications_Examples\Example_17_DataContext\obj\Debug\Example_17_DataContext.g.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_17_DataContext\obj\Debug\Example_17_DataContext.Properties.Resources.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_17_DataContext\obj\Debug\Example_17_DataContext.csproj.GenerateResource.Cache
+D:\Brain Academy\Windows_Applications_Examples\Example_17_DataContext\obj\Debug\Example_17_DataContext.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_17_DataContext\obj\Debug\Example_17_DataContext.pdb
