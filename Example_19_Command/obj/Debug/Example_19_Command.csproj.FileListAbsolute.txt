@@ -1,0 +1,12 @@
+D:\Brain Academy\Windows_Applications_Examples\Example_19_Command\bin\Debug\Example_19_Command.exe.config
+D:\Brain Academy\Windows_Applications_Examples\Example_19_Command\bin\Debug\Example_19_Command.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_19_Command\bin\Debug\Example_19_Command.pdb
+D:\Brain Academy\Windows_Applications_Examples\Example_19_Command\obj\Debug\MainWindow.baml
+D:\Brain Academy\Windows_Applications_Examples\Example_19_Command\obj\Debug\MainWindow.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_19_Command\obj\Debug\App.g.cs
+D:\Brain Academy\Windows_Applications_Examples\Example_19_Command\obj\Debug\Example_19_Command_MarkupCompile.cache
+D:\Brain Academy\Windows_Applications_Examples\Example_19_Command\obj\Debug\Example_19_Command.g.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_19_Command\obj\Debug\Example_19_Command.Properties.Resources.resources
+D:\Brain Academy\Windows_Applications_Examples\Example_19_Command\obj\Debug\Example_19_Command.csproj.GenerateResource.Cache
+D:\Brain Academy\Windows_Applications_Examples\Example_19_Command\obj\Debug\Example_19_Command.exe
+D:\Brain Academy\Windows_Applications_Examples\Example_19_Command\obj\Debug\Example_19_Command.pdb
